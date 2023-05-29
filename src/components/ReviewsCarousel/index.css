@@ -1,0 +1,20 @@
+/* Write your code here */
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  align-items: center;
+}
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+.third {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
